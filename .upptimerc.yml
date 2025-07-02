@@ -3,19 +3,8 @@ owner: akbruster   # Replace with your actual GitHub username
 repo: status-upptime          # Replace with the repository name (e.g. status)
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: http://forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: VoiceOfGenz
+    url: https://voiceofgenz.com
 
 status-website:
   # Uncomment and update one of the following depending on your setup
